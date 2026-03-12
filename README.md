@@ -1,5 +1,3 @@
-# [REINFORCE on CartPole](https://github.com/whoiskiwi/REINFORCE-CartPole)
-
 A clean, from-scratch implementation of the vanilla **REINFORCE** (Monte Carlo policy gradient) algorithm, solving the [CartPole-v1](https://gymnasium.farama.org/environments/classic_control/cart_pole/) environment using PyTorch and Gymnasium.
 
 ## Background
@@ -173,3 +171,6 @@ python reinforce_trainer_batch.py | tee train_log.txt
 - Williams, R.J. (1992). *Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning*. Machine Learning, 8, 229-256.
 - Sutton, R.S. & Barto, A.G. (2018). *Reinforcement Learning: An Introduction* (2nd ed.). Chapter 13: Policy Gradient Methods.
 - [Gymnasium CartPole-v1 Documentation](https://gymnasium.farama.org/environments/classic_control/cart_pole/)
+
+Link to presentation:
+https://drive.google.com/file/d/1RmEvBic5krgaOqghcGEUTuHaM_mTfAQJ/view?usp=sharing
